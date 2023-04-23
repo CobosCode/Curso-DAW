@@ -1,0 +1,15 @@
+Las definiciones más importantes para noobs -> Java 8:
+
+Lambda: Las expresiones lambda son una característica importante de Java 8 que permite escribir código más conciso y legible. Una expresión lambda es una función anónima que puede ser tratada como un objeto.
+
+Funciones de interfaz: Las funciones de interfaz son interfaces que contienen una sola función abstracta. Estas interfaces se utilizan principalmente para implementar expresiones lambda.
+
+Stream API: El Stream API es una nueva biblioteca en Java 8 que permite realizar operaciones en colecciones de datos de manera más eficiente y concisa. Los streams permiten operaciones como filtrado, mapeo y reducción de datos.
+
+Métodos predeterminados: Los métodos predeterminados son una nueva característica en Java 8 que permite agregar métodos a una interfaz sin romper la compatibilidad hacia atrás. Estos métodos predeterminados se utilizan principalmente para proporcionar implementaciones predeterminadas para métodos de interfaz.
+
+Referencias de método: Las referencias de método son otra característica de Java 8 que permiten pasar métodos como argumentos a otras funciones. Las referencias de método se utilizan principalmente para simplificar el código que utiliza expresiones lambda.
+
+Fecha y hora API: La Fecha y hora API es una nueva biblioteca en Java 8 que proporciona una API más intuitiva y completa para trabajar con fechas y horas. Esta biblioteca es más fácil de usar que la antigua API de fecha y hora de Java.
+
+Optional: Optional es una nueva clase en Java 8 que se utiliza para representar valores que pueden ser nulos. Optional se utiliza principalmente para evitar errores NullPointerException.
